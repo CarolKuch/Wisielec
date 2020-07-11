@@ -1,0 +1,1 @@
+Program napisano na podstawie tutorialu Mirosława Zelenta z kanału Pasja Informatyki.
